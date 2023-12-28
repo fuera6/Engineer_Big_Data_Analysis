@@ -13,9 +13,7 @@
 
 ## Directories & Files
 * 필답형: 머신러닝 관련 개념 정리
-  * 데이터 모형 구축 작업
+  * 1. 데이터 모형 구축 작업
+  * 2. 분석 모형
+  * 3. 분석모형 평가
 * 작업형: 머신러닝 코드 정리
-  * merging_final_weight.sas: SAS 코드
-  * trend_analysis_code.sas: SAS 코드
-  * 참고_syntax.pdf: 코드 이해를 위한 설명
-  * 변수 Codebook.xlsx:  변수 이해를 위한 codebook
